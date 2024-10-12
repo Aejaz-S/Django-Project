@@ -5,7 +5,7 @@
     </a>
   </p>
   <p align="center">
-    The Definitive Django Learning Platform.
+    The Django Project
   </p>
 </p>
 
@@ -17,7 +17,7 @@ This project was created almost two years ago. Since then, there is a newer vers
 
 # Django E-commerce
 
-This is a very simple e-commerce website built with Django.
+This is a e-commerce website built with Django.
 
 ## Quick demo
 
